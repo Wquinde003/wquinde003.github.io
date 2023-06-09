@@ -84,7 +84,7 @@ header .overlay {
 /* change the color of active or hovered links */
 .navbar-custom .nav-link.active,
 .navbar-custom .nav-link:hover {
-    color: #d67b8e !important;
+    color: #a123db !important;
 }
 
 nav {
@@ -182,11 +182,11 @@ nav {
 }*/
 
 .bg-pink {
-    background-color: #d67b8e;
+    background-color: #7bb9d6;
 }
 
 .badge-info {
-    background-color: #d67b8e !important;
+    background-color: #7bb9d6 !important;
 }
 
 @media (min-width: 768px) {
